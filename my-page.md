@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Page
+title: メンバー紹介
 permalink: /my-page/
 ---
 固定ページの内容です。
