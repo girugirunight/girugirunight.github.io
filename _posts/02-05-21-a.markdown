@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "お前らに500円の使い方教えてやんよ"
-date:   2020-05-21 11:38:00 +0900
+date:   2020-05-21 11:44:00 +0900
 categories: おもろ
 ---
 # 500円 秘密の裏技!!
@@ -11,7 +11,7 @@ categories: おもろ
 週一回、500円で買える内販には3000～5000円の品物がランダムに入っているらしい。  
 今回はその内販を公開しようと思う。  
 
-<img src="https://user-images.githubusercontent.com/65491096/82501133-b45d4100-9b2f-11ea-94f0-ad255b840dd9.JPG" alt="画像のサンプル" width="50%" height="50%">   
+<img src="https://user-images.githubusercontent.com/65491096/82501133-b45d4100-9b2f-11ea-94f0-ad255b840dd9.JPG" width="50%" height="50%">   
 
 これが内販の正体である。  
 申し訳ないが、一枚の写真には載せきることのできない量だ。  
